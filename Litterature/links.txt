@@ -1,0 +1,2 @@
+styleGAN: https://arxiv.org/abs/1812.04948
+LOGAN: https://arxiv.org/abs/1912.00953
