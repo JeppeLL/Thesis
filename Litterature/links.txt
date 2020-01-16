@@ -1,2 +1,11 @@
-styleGAN: https://arxiv.org/abs/1812.04948
-LOGAN: https://arxiv.org/abs/1912.00953
+styleGAN: 
+https://arxiv.org/abs/1812.04948
+https://github.com/NVlabs/stylegan
+
+LOGAN: 
+https://arxiv.org/abs/1912.00953
+
+K. Kurach, M. Lucic, X. Zhai, M. Michalski, and S. Gelly.The gan landscape: Losses, architectures, regularization, andnormalization.CoRR, abs/1807.04720, 201
+M. Lucic, K. Kurach, M. Michalski, S. Gelly, and O. Bous-quet.  Are GANs created equal?  a large-scale study.CoRR,abs/1711.10337, 201
+L.  Mescheder,  A.  Geiger,  and  S.  Nowozin.   Which  train-ing  methods  for  GANs  do  actually  converge?CoRR,abs/1801.04406, 201
+T. Miyato, T. Kataoka, M. Koyama, and Y. Yoshida. Spectralnormalization  for  generative  adversarial  networks.CoRR,abs/1802.05957, 201
